@@ -1,1 +1,11 @@
-# E-Commerce-Web-API
+## Install Dependencies
+
+```
+npm install
+```
+
+## Run App
+
+```
+npm start
+```
